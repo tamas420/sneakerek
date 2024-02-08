@@ -1,0 +1,10 @@
+panda: file:///H:/web%2001.%20projekt/panda.webp
+	forrás: https://sneakernews.com/wp-content/uploads/2022/01/nike-dunk-low-panda-2022-restock-dd1391-100-lead.jpg
+balenciaga: file:///H:/web%2001.%20projekt/balenciaga.jpg
+	forrás:https://images.stockx.com/images/Balenciaga-Triple-S-Cream-Yellow-Red-W.png?fit=fill&bg=FFFFFF&w=480&h=320&fm=jpg&auto=compress&dpr=2&trim=color&updated_at=1607655211&q=60
+mschf: file:///H:/web%2001.%20projekt/mschf.jfif
+	forrás:https://helios-i.mashable.com/imagery/articles/020lvHtYEnOEY1Ztb1LJCV7/hero-image.fill.size_1200x1200.v1676475132.png
+benandjerry: file:///H:/web%2001.%20projekt/benandjerry.webp
+	forrás:https://sneakernews.com/wp-content/uploads/2020/04/Ben-and-Jerrys-Nike-SB-Dunk-Low-Chunky-Dunky-Photos-6.jpg
+owaj1:file:///H:/web%2001.%20projekt/aj1.avif
+	forrás:https://imagedelivery.net/2DfovxNet9Syc-4xYpcsGg/60ebd562-31f2-4541-3fce-af45ad6d5000/product

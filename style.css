@@ -1,0 +1,123 @@
+h1{
+    margin-bottom: 0px;
+    text-align: center;
+}
+h5{
+    margin: 0px;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-image: linear-gradient(grey, darkgreen);
+    background-repeat: no-repeat;
+}
+#panda{
+    float: right;
+    width: 200px;
+    height: 150px
+}
+#aj1{
+    width: 200px;
+    height: 130px;
+    float: left;
+    border-radius: 20px;
+}
+#masodik{
+    text-align:right;
+}
+#masodik2{
+    text-align:right;
+}
+#mschf{
+    float:right;
+    margin: 10px;
+    border-style:double;
+    border-color: beige;
+    height: 140px;
+}
+#balenciaga{
+    float: left;
+    width: 200px;
+    height: 120px;
+    padding-bottom: 40px;
+}
+#harmadik{
+    text-align: right;
+}
+#harmadik3{
+    text-align:right;
+}
+#kelt{
+    text-align: right;
+    padding-top: 70px;
+    
+}
+div div {
+    background-color: lightblue;border: 5px solid grey;
+}
+.menü {
+    display:grid; border: none;
+}
+.topnav {
+    background-color: grey;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.kozep{
+    text-align:center;
+    
+}
+#homekep{
+    size: 200%;
+}
+.homediv{
+    text-align: center;
+    padding: 30px;
+}
+h3{
+    margin-top: 5px;
+}
+.galeria{
+    width: 200px;
+    height: 200px;
+    border: solid grey,darkgreen 5px;
+    padding: 5px;
+}
+.kepek{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.kepek div{
+    background-color: black;
+}
+.lábrész{
+    
+}
+body{
+    font-family: 'Saira Condensed', sans-serif;
+}
